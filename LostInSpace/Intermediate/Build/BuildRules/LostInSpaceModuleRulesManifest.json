@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"D:\\Unreal Projects\\Game Jams\\GameJamMay2024\\LostInSpace\\Source\\LostInSpace\\LostInSpace.Build.cs",
+		"D:\\Unreal Projects\\Game Jams\\GameJamMay2024\\LostInSpace\\Source\\LostInSpace.Target.cs",
+		"D:\\Unreal Projects\\Game Jams\\GameJamMay2024\\LostInSpace\\Source\\LostInSpaceEditor.Target.cs"
+	],
+	"EngineVersion": "5.3.2"
+}
