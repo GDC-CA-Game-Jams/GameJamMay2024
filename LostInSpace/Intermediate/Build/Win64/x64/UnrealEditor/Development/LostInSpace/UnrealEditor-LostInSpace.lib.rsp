@@ -6,7 +6,10 @@
 /NAME:"UnrealEditor-LostInSpace.dll"
 /IGNORE:4221
 /NODEFAULTLIB
-"D:\Unreal Projects\Game Jams\GameJamMay2024\LostInSpace\Intermediate\Build\Win64\x64\LostInSpaceEditor\Development\Engine\SharedPCH.Engine.Cpp20.h.obj"
+"D:\Unreal Projects\Game Jams\GameJamMay2024\LostInSpace\Intermediate\Build\Win64\x64\LostInSpaceEditor\Development\UnrealEd\SharedPCH.UnrealEd.Cpp20.h.obj"
+"D:\Unreal Projects\Game Jams\GameJamMay2024\LostInSpace\Intermediate\Build\Win64\x64\UnrealEditor\Development\LostInSpace\LostInSpace.init.gen.cpp.obj"
+"D:\Unreal Projects\Game Jams\GameJamMay2024\LostInSpace\Intermediate\Build\Win64\x64\UnrealEditor\Development\LostInSpace\PlayerCharacter.gen.cpp.obj"
 "D:\Unreal Projects\Game Jams\GameJamMay2024\LostInSpace\Intermediate\Build\Win64\x64\UnrealEditor\Development\LostInSpace\LostInSpace.cpp.obj"
+"D:\Unreal Projects\Game Jams\GameJamMay2024\LostInSpace\Intermediate\Build\Win64\x64\UnrealEditor\Development\LostInSpace\PlayerCharacter.cpp.obj"
 "D:\Unreal Projects\Game Jams\GameJamMay2024\LostInSpace\Intermediate\Build\Win64\x64\UnrealEditor\Development\LostInSpace\Default.rc2.res"
 /OUT:"D:\Unreal Projects\Game Jams\GameJamMay2024\LostInSpace\Intermediate\Build\Win64\x64\UnrealEditor\Development\LostInSpace\UnrealEditor-LostInSpace.lib"

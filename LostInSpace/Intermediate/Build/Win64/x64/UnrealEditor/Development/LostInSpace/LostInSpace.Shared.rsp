@@ -1,5 +1,7 @@
 /I "."
-/I "D:\Unreal Projects\Game Jams\GameJamMay2024\LostInSpace\Source"
+/I "..\Plugins\2D\Paper2D\Intermediate\Build\Win64\UnrealEditor\Inc\Paper2D\UHT"
+/I "..\Plugins\2D\Paper2D\Source\Paper2D\Classes"
+/I "..\Plugins\2D\Paper2D\Source\Paper2D\Public"
 /I "Runtime\Core\Public"
 /I "Runtime\Core\Internal"
 /I "Runtime\TraceLog\Public"
@@ -257,6 +259,8 @@
 /I "Developer\PhysicsUtilities\Public"
 /I "..\Intermediate\Build\Win64\UnrealEditor\Inc\WidgetRegistration\UHT"
 /I "Developer\WidgetRegistration\Public"
+/I "D:\Unreal Projects\Game Jams\GameJamMay2024\LostInSpace\Intermediate\Build\Win64\UnrealEditor\Inc\LostInSpace\UHT"
+/I "D:\Unreal Projects\Game Jams\GameJamMay2024\LostInSpace\Source"
 /external:W0
 /external:I "ThirdParty\mimalloc\include"
 /external:I "ThirdParty\LibTiff\Source\Win64"

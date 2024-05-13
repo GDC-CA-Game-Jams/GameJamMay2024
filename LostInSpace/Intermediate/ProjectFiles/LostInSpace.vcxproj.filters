@@ -11,6 +11,7 @@
     <None Include="..\..\Source\LostInSpaceEditor.Target.cs">
       <Filter>Source</Filter>
     </None>
+    <None Include="..\..\.vsconfig" />
     <Filter Include="Config">
       <UniqueIdentifier>{FA535FFB-25E1-3D20-B416-52F9BE21E06E}</UniqueIdentifier>
     </Filter>
@@ -36,6 +37,12 @@
       <Filter>Source\LostInSpace</Filter>
     </ClCompile>
     <ClInclude Include="..\..\Source\LostInSpace\LostInSpace.h">
+      <Filter>Source\LostInSpace</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\LostInSpace\PlayerCharacter.cpp">
+      <Filter>Source\LostInSpace</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\LostInSpace\PlayerCharacter.h">
       <Filter>Source\LostInSpace</Filter>
     </ClInclude>
   </ItemGroup>
