@@ -20,7 +20,7 @@ public:
 	UBaseUI* BaseUI;
 
 	UPROPERTY(EditDefaultsOnly)
-	TSubclassOf<UBaseUI> HUDClass;
+	TSubclassOf<UExtendedCommonActivatableWidget> HUDClass;
 
 	UPROPERTY(BlueprintReadWrite)
 	UExtendedCommonActivatableWidget* PlayerHud;
