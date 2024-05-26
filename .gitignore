@@ -50,7 +50,7 @@ SourceArt/**/*.tga
 *.pdb
 
 # Builds
-Build/*
+LostInSpace/Build/*
 
 # Whitelist PakBlacklist-<BuildConfiguration>.txt files
 !LostInSpace/Build/*/
